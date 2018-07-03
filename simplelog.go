@@ -88,4 +88,6 @@ func archiveFile(file *os.File) {
 	}
 
 }
+//TODO: Agregar test unitarios
+//TODO: Usar tamaño de archivo de configuración para maxfilelog
 
